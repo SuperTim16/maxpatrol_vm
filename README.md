@@ -34,18 +34,18 @@
 [+] Установка
 
 Для Debian (Ubuntu, Kali-Linux)
-- `sudo apt update && upgrade`
-- `sudo apt install git python3 python3-pip php openssh-client -y`
+   - `sudo apt update && upgrade`
+   - `sudo apt install git python3 python3-pip php openssh-client -y`
 
 Для Arch (Manjaro)
-- `sudo pacman -S git python3 python-pip php openssh --noconfirm`
+   - `sudo pacman -S git python3 python-pip php openssh --noconfirm`
 
 Клонируй репозиторий
-- `git clone https://github.com/SuperTim16/maxpatrol_vm`
+   - `git clone https://github.com/SuperTim16/maxpatrol_vm`
 
 Войди в директорию
-- `cd maxpatrol_vm`
+   - `cd maxpatrol_vm`
 
 Запуск
-- `python3 ssh_connection_sc.py`
+   - `python3 ssh_connection_sc.py`
 
