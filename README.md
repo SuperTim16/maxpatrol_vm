@@ -45,3 +45,4 @@
 · cd maxpatrol_vm
 Запуск
 · python3 ssh_connection_sc.py
+
