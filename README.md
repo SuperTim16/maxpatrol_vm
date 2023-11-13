@@ -1,8 +1,8 @@
 Привет, я сделал собственный maxpatrol!
 
 Что нам необходимо сделать, чтобы все работало корректно:
-Создайте базу данных под названием scan_ssh
-Далее создайте новую таблицу ниже можете скопировать
+1. Создайте базу данных под названием scan_ssh
+2. Далее создайте новую таблицу ниже можете скопировать
 CREATE TABLE IF NOT EXISTS scan_results (
     id SERIAL PRIMARY KEY,
     date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
