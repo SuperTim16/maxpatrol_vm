@@ -40,8 +40,8 @@
 · sudo pacman -S git python3 python-pip php openssh --noconfirm
 
 Клонируй репозиторий
-git clone https://github.com/SuperTim16/maxpatrol_vm
+· git clone https://github.com/SuperTim16/maxpatrol_vm
 Войди в директорию
-cd PyPhisher
+· cd maxpatrol_vm
 Запуск
-python3 ssh_connection_sc.py
+· python3 ssh_connection_sc.py
