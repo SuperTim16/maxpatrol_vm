@@ -12,7 +12,4 @@ CREATE TABLE IF NOT EXISTS scan_results (
     ports TEXT
 );
 
-либо одной строкой для быстрого создания в SQL Shell:
-CREATE TABLE IF NOT EXISTS scan_results (id SERIAL PRIMARY KEY, date TIMESTAMP DEFAULT CURRENT_TIMESTAMP, host VARCHAR(255), command TEXT, os_info TEXT, ports TEXT);
-
 Далее необходимо запустить .py файл и наслаждаться, инструкция по настройке kali и установке на linux под постом. 
