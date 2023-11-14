@@ -36,6 +36,7 @@
 Для Debian (Ubuntu, Kali-Linux)
    - `sudo apt update && upgrade`
    - `sudo apt install git python3 python3-pip`
+   - `sudo pip3 install PyQt5`
 
 Для Arch (Manjaro)
    - `sudo pacman -S git python3 python-pip`
