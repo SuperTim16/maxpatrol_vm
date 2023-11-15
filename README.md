@@ -32,6 +32,18 @@
    SELECT * FROM scan_results;
 
 **[+] Установка**
+Для Windows
+   - Скачайте 2 файла с GitHub и переместите их в 1 папку
+   - Зайдите в редактор кода, например Visual Studio Code
+   - В терминали необходимо будет установить библиотеки для корректной работы
+   - pip install PyQt5
+   - pip install paramiko
+   - pip install logging
+   - pip install psycopg2
+   - Чтобы запустить файл из cmd
+   - cd Путь\\к\\файлу
+   - python maxpatrol.py
+
 
 Для Debian (Ubuntu, Kali-Linux)
    - `sudo apt update && upgrade`
